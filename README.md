@@ -40,4 +40,4 @@ The main idea is to allow users to efficiently manage their daily activities wit
 
 ### **1️⃣ Clone or Download the Repository**
 ```bash
-git clone https://github.com/your-username/SmartToDoList.git
+git clone https://github.com/JK-1914/SmartToDoList.git
